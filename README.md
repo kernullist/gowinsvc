@@ -6,7 +6,6 @@ Go 로 Windows Service 를 쉽게 만들게 도와주는 패키지
 
 # Setup
 1. mingw 설치
-
 [http://sourceforge.net/projects/mingw-w64/](http://sourceforge.net/projects/mingw-w64/)
 
 2. gowinsvc 패키지 다운로드
