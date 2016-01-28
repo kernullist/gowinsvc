@@ -14,6 +14,8 @@ Go 로 Windows Service 를 쉽게 만들게 도와주는 패키지
 > go get github.com/kernullist/gowinsvc
 
 # Example
+1초마다 현재 시간을 출력하는 서비스 예제
+
 ```go
 package main
 
